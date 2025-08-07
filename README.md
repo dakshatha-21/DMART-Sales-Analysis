@@ -2,13 +2,12 @@
 
 The goal of this project is to design a **visually interactive and business-focused dashboard** using sales data from DMart. It helps stakeholders monitor key performance metrics such as sales, profit, customer preferences, and product trends.
 
----
 
 ## 📁 Dataset
 
 - **File**: `DmartSalesData.csv`
-- **Source**: Simulated DMart retail dataset
-- **Fields Used**: Invoice ID, Branch, City, Customer Type, Gender, Product Line, Quantity, Total, Profit, Payment, Date, Time, and Rating,Day
+- **Source**: Simulated DMart retail dataset ,Kaggle
+- **Fields Used**: Invoice ID, Branch, City, Customer Type, Gender, Product Line, Quantity, Total, Profit, Payment, Date, Time, and Rating,Day,Time of Day
 
 ## 📊 Key KPIs (Cards)
 
@@ -45,12 +44,14 @@ The goal of this project is to design a **visually interactive and business-focu
 - Time of Day  
 - Date Range
 
+
 ## 🖼 Dashboard Features
 
 - Interactive & fully responsive Power BI dashboard  
 - Slicers synced across pages  
 - Easy-to-read layout with KPI cards and insight-driven visuals  
 - Custom `Time of Day` and `Day` columns added for deeper analysis
+- 
 
 ## 📑 Files Included
 
@@ -69,4 +70,4 @@ This project demonstrates the ability to:
 - Work with real-world sales data
 - Present insights that support business decisions
 
-#dashboard created on my own
+# dashboard created on my own
